@@ -1,0 +1,42 @@
+[
+  {
+    "title": "General",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/website.png"
+  },
+  {
+    "title": "Implementation",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/coding.png"
+  },
+  {
+    "title": "Tutorial",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/browser.png"
+  },
+  {
+    "title": "Basic Knowledge",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/multitask.png"
+  },
+  {
+    "title": "How-to",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/gear.png"
+  },
+  {
+    "title": "API Reference",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/website.png"
+  },
+  {
+    "title": "Troubleshooting",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/open-book.png"
+  },
+  {
+    "title": "Costumer service",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ratione ipsam neque ipsum",
+    "image": "images/open-book.png"
+  }
+]

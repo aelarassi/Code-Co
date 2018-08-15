@@ -1,0 +1,39 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.hero {
+  background-image: url("../images/bgheader.png");
+  background-repeat: no-repeat;
+  height: 450px;
+  width: 100%;
+}
+
+.bg-dark {
+  background-color: #262b2f !important;
+}
+
+.bg-footer {
+  background-color: #1f2327 !important;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-15 {
+  font-size: 15px;
+}
+
+.fw-100 {
+  font-weight: 100;
+}
+
+.brr-100 {
+  border-radius: 100px;
+}
+
+button {
+  cursor: pointer;
+}
