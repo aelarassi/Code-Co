@@ -26,42 +26,42 @@ class Header extends Component {
         <div className="collapse navbar-collapse" id="navbarTogglerMenu">
           <ul className="navbar-nav ml-auto mr-auto mt-2 mt-lg-0">
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#HOME">
                 HOME
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#ABOUTUS">
                 ABOUT US
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#SERVICES">
                 SERVICES
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#PRODUCTS">
                 PRODUCTS
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#PRICING">
                 PRICING
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#API">
                 API
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15 active" href="#a">
+              <a className="nav-link fs-15 active" href="#SUPPORT">
                 SUPPORT
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-15" href="#a">
+              <a className="nav-link fs-15" href="#CONTACT">
                 CONTACT
               </a>
             </li>
