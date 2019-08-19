@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Button from "./UI/Button";
+import Button from "../UI/Button";
 
 class Header extends Component {
   render() {

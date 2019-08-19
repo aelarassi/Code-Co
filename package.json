@@ -1,7 +1,9 @@
 {
   "name": "simple_support_reactapp",
-  "version": "0.1.0",
+  "version": "0.1.3",
+  "author": "ABDELAZIZ EL ARASSI",
   "private": true,
+  "homepage": "https://aelarassi.github.io/Sweet-Park-Interface/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
@@ -11,6 +13,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }

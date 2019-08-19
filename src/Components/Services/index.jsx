@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-import dataServices from "./data.json";
-import Card from "./UI/Card";
+import dataServices from "../data.json";
+import Card from "../UI/Card";
 
 class Services extends Component {
   render() {

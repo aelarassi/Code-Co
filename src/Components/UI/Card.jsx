@@ -6,8 +6,7 @@ class Card extends Component {
     return (
       <div className="col-sm-6 col-md-6 col-lg-3 pt-4 pb-4 text-center">
         <img
-          className="mb-3"
-          width="80px"
+          className="mb-3 img-services"
           src={imageService}
           alt={titleService}
         />

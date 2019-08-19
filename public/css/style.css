@@ -38,3 +38,7 @@ body {
 button {
   cursor: pointer;
 }
+
+.img-services {
+  height: 80px;
+}
