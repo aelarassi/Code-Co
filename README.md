@@ -16,7 +16,7 @@ npm start
 
 ## Demo
 
-![](screenshot.png)
+![](ScreenShot.png)
 
 ## Contributing
 
